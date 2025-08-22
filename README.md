@@ -6,6 +6,12 @@ With **text-to-speech**, multilingual translation, and drag‑and‑drop editing
 
 ---
 
+## 🗂 Scheme
+
+<img src="./img/img-10.png" alt="Scheme" />
+
+---
+
 ## 🔹 Overview
 HumanPal enables creators to produce **personalized, high-quality videos** effortlessly:
 - Choose video type, template, avatar, and voice
