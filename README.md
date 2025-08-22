@@ -127,8 +127,49 @@ These challenges hinder creators from **producing high-quality content regularly
 
 ---
 
+
 ## 🎥 Video Examples
 
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/1b429e34-dcbd-467f-a068-6284ae75aa01" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/5548645e-81f9-4686-9fd6-ab11d76cf8e5" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/2300075a-fb2f-4c94-a445-c201704d045b" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/11ba8d69-d52c-4533-b03d-dd3ca700eb93" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/2c441664-4b58-4134-a457-985b9da46636" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/2909afdf-697c-4de7-bfd0-81ca915ce70f" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
