@@ -81,6 +81,52 @@ These challenges hinder creators from **producing high-quality content regularly
 
 ---
 
+## 🖼️ Screenshots
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <img src="./img/img-1.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-2.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-3.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-4.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-5.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-6.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-7.png" alt="img" />
+            </td>
+            <td>
+                <img src="./img/img-8.png" alt="img" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="./img/img-9.png" alt="img" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
 ## 🎥 Video Examples
 
 
@@ -108,13 +154,3 @@ These challenges hinder creators from **producing high-quality content regularly
 9. Nature Machine Intelligence
 10. Towards Data Science
 
----
-
-## 💡 Suggested GitHub Repository Names
-- `humanpal-ai` ✅
-- `ai-video-creator`
-- `humanpal-video`
-- `smart-video-gen`
-- `easy-video-ai`
-
-**Top Recommendation:** `humanpal-ai` – simple, memorable, and descriptive.
