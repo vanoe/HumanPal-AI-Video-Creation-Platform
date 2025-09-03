@@ -110,7 +110,7 @@ It bridges creativity and technology, making video creation **accessible, afford
 <table>
     <tbody>
         <tr>
-            <td>
+            <td width="50%">
                 <video src="https://github.com/user-attachments/assets/11ba8d69-d52c-4533-b03d-dd3ca700eb93" controls preload>
                     Your browser does not support the video tag.
                 </video>
