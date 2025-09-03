@@ -22,7 +22,7 @@ It bridges creativity and technology, making video creation **accessible, afford
 
 ---
 
-## 🖼️ Screenshots
+## Examples
 
 <table>
     <tbody>
@@ -91,22 +91,31 @@ It bridges creativity and technology, making video creation **accessible, afford
                 </video>
             </td>
             <td>
-                <video src="https://github.com/user-attachments/assets/11ba8d69-d52c-4533-b03d-dd3ca700eb93" controls preload>
+                <video src="https://github.com/user-attachments/assets/2c441664-4b58-4134-a457-985b9da46636" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/2c441664-4b58-4134-a457-985b9da46636" controls preload>
-                    Your browser does not support the video tag.
-                </video>
-            </td>
-            <td>
                 <video src="https://github.com/user-attachments/assets/2909afdf-697c-4de7-bfd0-81ca915ce70f" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/11ba8d69-d52c-4533-b03d-dd3ca700eb93" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td></td>
         </tr>
     </tbody>
 </table>
